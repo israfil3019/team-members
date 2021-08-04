@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  margin: 0;
+  padding: 0;
+}
+.vertical {
+  writing-mode: vertical-lr;
+  position: relative;
+}
